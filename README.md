@@ -10,9 +10,26 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/hsinyan7">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsinyan7&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsinyan7&layout=compact&langs_count=8"/>
 </a>
+</p> -->
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/hsinyan7">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsinyan7&show_icons=true&include_all_commits=true&count_private=true"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hsinyan7">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsinyan7&layout=compact&langs_count=8"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
