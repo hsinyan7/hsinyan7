@@ -18,5 +18,10 @@
 </p> -->
 
 <a href="https://github.com/hsinyan7">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsinyan7&show_icons=true&include_all_commits=true&count_private=true"/>
+  <picture>
+    <!-- 当 GitHub 处于深色模式时展示的主题 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=hsinyan7&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" />
+    <!-- 当 GitHub 处于浅色模式时展示的主题（也是默认兜底图） -->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsinyan7&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
+  </picture>
 </a>
