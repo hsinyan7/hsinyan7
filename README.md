@@ -3,7 +3,7 @@
 - 🔭 **Working on**: Computer Vision, Multimodal AI, and LLM Applications
 - 👯 **Exploring**: Vision-Language Models
 - 📫 **Email**: [makhsinyan@gmail.com](mailto:makhsinyan@gmail.com)
-- 😄 **Motto**: Be interesting. Do interesting things.
+- 😄 **Motto**: Be interested. Do interesting things.
 
 ---
 
